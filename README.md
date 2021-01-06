@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 Hi there and welcome to the official Github of Dr. Greg Silasi's Lab @ The University of Ottawa 🔭 
 
 <!--
 **SilasiLab/SilasiLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
